@@ -1,4 +1,4 @@
-# Text_Analysis_Capstone
+# Text Analysis Capstone
 Code used for reading, counting, and pseudo-measuring the sentiment of environmentally sustainable words in company 10-K annual statements from the SEC. The program mainly uses the NLTK to extract words of interest (concept vectors) and also sentences that contain these words for 30 Fortune 500 companies.
 
 # Functions
